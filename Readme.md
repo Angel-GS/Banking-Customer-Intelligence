@@ -34,7 +34,7 @@ La variable principal de análisis es `Personal Loan`, que identifica si el clie
 | Tasa global de aceptación | 9.60% |
 | Valores negativos en `Experience` | 52 |
 
-La descripción detallada del conjunto de datos y de sus campos se encuentra en [`documentacion/data_dictionary.md`](documentacion/data_dictionary.md).
+La descripción detallada del conjunto de datos y de sus campos se encuentra en [`documentacion/data_dictionary.md`](Documentacion/data_dictionary.md).
 
 ## 3. Herramientas utilizadas
 
