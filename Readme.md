@@ -34,7 +34,7 @@ La variable principal de análisis es `Personal Loan`, que identifica si el clie
 | Tasa global de aceptación | 9.60% |
 | Valores negativos en `Experience` | 52 |
 
-La descripción detallada del conjunto de datos y de sus campos se encuentra en [`documentacion/data_dictionary.md`](Documentacion/data_dictionary.md).
+La descripción detallada del conjunto de datos y de sus campos se encuentra en [`Documentacion/data_dictionary.md`](Documentacion/data_dictionary.md).
 
 ## 3. Herramientas utilizadas
 
@@ -54,7 +54,7 @@ La descripción detallada del conjunto de datos y de sus campos se encuentra en 
 6. Creación de medidas DAX y columnas de clasificación.
 7. Diseño de dos páginas de análisis con indicadores, gráficos y filtros.
 
-El detalle se encuentra en [`documentacion/data_preparation_sql.md`](documentacion/data_preparation_sql.md) y [`documentacion/powerbi_model.md`](documentacion/powerbi_model.md).
+El detalle se encuentra en [`documentacion/data_preparation_sql.md`](Documentacion/data_preparation_sql.md) y [`Documentacion/powerbi_model.md`](Documentacion/powerbi_model.md).
 
 ## 5. Requerimientos de negocio
 
@@ -113,7 +113,7 @@ Los segmentadores se pueden sincronizar entre páginas para conservar el context
 - Por nivel educativo, las tasas fueron aproximadamente **4.44%** para el nivel 1, **12.97%** para el nivel 2 y **13.66%** para el nivel 3.
 - Por tamaño familiar, las tasas observadas fueron aproximadamente **7.27%** (1 integrante), **8.18%** (2), **13.17%** (3) y **10.97%** (4).
 
-Los resultados completos y sus interpretaciones están en [`documentacion/insights.md`](documentacion/insights.md).
+Los resultados completos y sus interpretaciones están en [`Documentacion/insights.md`](Documentacion/insights.md).
 
 ## 8. Valor para el negocio
 
